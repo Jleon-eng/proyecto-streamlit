@@ -1,2 +1,4 @@
 # proyecto-streamlit
-Repositorio de práctica streamlit para el curso Talentotech2
+Repositorio de práctica streamlit para el cursoooooo
+
+
